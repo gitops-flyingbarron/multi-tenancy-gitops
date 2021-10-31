@@ -33,7 +33,7 @@ spec:
             # mode: APM
 
             # agent.key is the secret token which your agent uses to authenticate to Instana's servers.
-            # key: null
+            key: qUMhYJxjSv6uZh2SyqTEnw  
             # agent.downloadKey is key, sometimes known ass "sales key", that allows you to download,
             # software from Instana.
             # downloadKey: null
@@ -211,7 +211,7 @@ spec:
 
           zone:
             # zone.name is the custom zone that detected technologies will be assigned to
-            name: zone-name
+            name: Robert-Test01 
 
           kubernetes:
             # Configures use of a Deployment for the Kubernetes sensor rather than as a potential member of the DaemonSet
