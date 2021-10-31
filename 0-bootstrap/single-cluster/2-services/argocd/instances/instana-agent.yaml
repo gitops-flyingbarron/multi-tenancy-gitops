@@ -33,7 +33,7 @@ spec:
             # mode: APM
 
             # agent.key is the secret token which your agent uses to authenticate to Instana's servers.
-            # key: null
+            key: qUMhYJxjSv6uZh2SyqTEnw
             # agent.downloadKey is key, sometimes known ass "sales key", that allows you to download,
             # software from Instana.
             # downloadKey: null
