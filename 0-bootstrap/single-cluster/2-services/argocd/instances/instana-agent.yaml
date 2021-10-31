@@ -211,7 +211,7 @@ spec:
 
           zone:
             # zone.name is the custom zone that detected technologies will be assigned to
-            name: zone-name
+            name: Test_Zone1
 
           kubernetes:
             # Configures use of a Deployment for the Kubernetes sensor rather than as a potential member of the DaemonSet
