@@ -33,7 +33,7 @@ spec:
             # mode: APM
 
             # agent.key is the secret token which your agent uses to authenticate to Instana's servers.
-            key: qUMhYJxjSv6uZh2SyqTEnw  
+            key: instana-agent-key  
             # agent.downloadKey is key, sometimes known ass "sales key", that allows you to download,
             # software from Instana.
             # downloadKey: null
@@ -162,7 +162,7 @@ spec:
 
           cluster:
             # cluster.name represents the name that will be assigned to this cluster in Instana
-            name: cluster-name
+            name: robert-test-cluster-01 
 
           leaderElector:
             image:
